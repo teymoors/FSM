@@ -8,8 +8,8 @@ This repository implements novel Kolmogorov-Arnold Network (KAN) architectures f
 
 ## Related Repositories
 - [ChebyKAN Implementation](https://github.com/SynodicMonth/ChebyKAN)
-- [Boubaker and Vieta-Pell Implementations](https://github.com/seydi1370/Basis_Functions)
-
+- [Boubaker Implementation](https://github.com/seydi1370/Basis_Functions/blob/main/Boubaker.py))
+- [Vieta-Pell Implementation](https://github.com/seydi1370/Basis_Functions/blob/main/VietaPell.py)
 ## Papers
 Our research is currently under review in the Journal of Hydrology. Related preprints:
 - (https://arxiv.org/html/2405.07200)
